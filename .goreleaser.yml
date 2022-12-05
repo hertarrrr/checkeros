@@ -3,8 +3,8 @@ project_name: checker-os
 
 release:
   github:
-    owner: checker
-    name: checkers-os
+    owner: lumiere-eclair
+    name: checkeros
 
 builds:
   - skip: true
